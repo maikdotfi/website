@@ -1,2 +1,2 @@
 # website
-Using GitHub pages and Hugo
+Something in future.
